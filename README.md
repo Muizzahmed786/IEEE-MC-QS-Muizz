@@ -1,2 +1,2 @@
-# DSA_problems
-Solutions to each of my solved problems
+# DSA PROBLEM SOLUTIONS
+This repository contains my solutions to various Data Structures and Algorithms problems.  
